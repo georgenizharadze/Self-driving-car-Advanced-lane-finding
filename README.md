@@ -13,12 +13,12 @@ The goals / steps for this project are:
 
 [//]: # (Image References)
 [image1]: ./readme_images/img1.png
-[image2]: ./readme_images/img1.png
-[image3]: ./readme_images/img1.png
-[image4]: ./readme_images/img1.png
-[image5]: ./readme_images/img1.png
-[image6]: ./readme_images/img1.png
-[image6]: ./readme_images/img1.png
+[image2]: ./readme_images/img2.png
+[image3]: ./readme_images/img3.png
+[image4]: ./readme_images/img4.png
+[image5]: ./readme_images/img5.png
+[image6]: ./readme_images/img6.png
+[image7]: ./readme_images/img7.png
 
 ## Camera calibration
 
